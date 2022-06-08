@@ -9,7 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter, iOS Development**
 
+- 👨‍💻 All of my projects are available at [https://github.com/AlfredWibowo?tab=repositories](https://github.com/AlfredWibowo?tab=repositories)
+
+- 💬 Ask me about **Anything**
+
 - 📫 How to reach me **wibowoalfred@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ca1tRaQMj_Gg4GgfGH7Yku76F_l8t-aw/view?usp=sharing](https://drive.google.com/file/d/1ca1tRaQMj_Gg4GgfGH7Yku76F_l8t-aw/view?usp=sharing)
 
 - ⚡ Fun fact **I'm single hehe**
 
