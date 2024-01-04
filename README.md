@@ -26,7 +26,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://instagram.com/alfred_wibowo" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="alfred_wibowo" height="30" width="40" /></a> 
+<a href="mailto:wibowoalfred@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="alfred_wibowo" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/alfred-wibowo-aa531a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfred-wibowo-aa531a20a" height="30" width="40" /></a>
 <a href="https://instagram.com/alfred_wibowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfred_wibowo" height="30" width="40" /></a>
 </p>
