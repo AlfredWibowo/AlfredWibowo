@@ -22,7 +22,7 @@
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlfredWibowo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredWibowo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=AlfredWibowo&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,asp.net,kotlin,cmake,c%2b%2b,less,swift,c,hack,objective-c&theme=algolia&show_icons=true)
 
 ## Connect with me:
 <p align="left">
