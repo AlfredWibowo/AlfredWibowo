@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alfred Wibowo</h1>
-<h3 align="center">Fresh Graduate | Software Engineer Developer</h3>
+<h3 align="center">Software Engineer Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
